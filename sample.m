@@ -22,7 +22,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import "macrologger.h"
+#import "logger.h"
 
 int main(int argc, const char * argv[]) {
     

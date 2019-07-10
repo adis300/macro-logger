@@ -2,6 +2,8 @@
 
 A simplified logging system using macros for C/C++ and Objective-C.
 
+This version removes objective-C macro because fprintf prints fine in iOS, Android support is added instead.
+
 ## Notes
 
 #### Levels
